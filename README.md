@@ -6,7 +6,7 @@ O objetivo desta atividade é desenvolver a compreensão prática das estruturas
 
 Este projeto foi desenvolvido como parte da disciplina de Estruturas de Dados.  
 Ele consiste em um sistema didático que demonstra o funcionamento das estruturas de dados **Pilha (LIFO)** e **Fila (FIFO)**.  
-O programa possui um menu interativo no console que permite ao usuário escolher qual estrutura deseja testar e executar as operações disponíveis(números).
+O programa possui um menu interativo no console que permite ao usuário escolher qual estrutura deseja testar e executar as operações disponíveis (números).
 
 Estrutura do projeto
 - `Principal.java` → Classe principal com o menu interativo
