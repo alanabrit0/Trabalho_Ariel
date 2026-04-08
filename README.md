@@ -89,6 +89,9 @@ No terminal, digite o que se pede, como:
 - Escolha no menu interativo;
 E assim por diante, empilhando ou enfileirando os elementos conforme a estrutura.
 
+### link do video 
+
+https://youtu.be/HLCu-GdUV8Y?si=ikWMDePy6ce-U5Yz
 
 
 
